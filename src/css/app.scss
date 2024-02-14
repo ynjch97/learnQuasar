@@ -1,0 +1,14 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Nanum+Brush+Script&display=swap');
+.nanumBrush {
+  font-family: 'Nanum Brush Script', cursive;
+}
+[class*='bg-'] {
+  text-align: center;
+}
+.text-ynjch {
+  color: $blue-9;
+}
+.bg-ynjch {
+  background: $yellow-3;
+}
